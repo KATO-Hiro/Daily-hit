@@ -8,6 +8,6 @@
 
 |Date|Status|Summary|Keywords|link|
 |--|--|--|--|--|
-||||||
+|2020-06-29|On going|競技プログラミング: コンテスト情報をスマートフォンにpush通知する|リマインダー、競技プログラミング、AtCoder、コンテスト、push通知|[Twitter](https://twitter.com/AtCoderChokuZen), [GitHub](https://github.com/KATO-Hiro/AtCoderChokuZen), [Issue](https://github.com/KATO-Hiro/Daily-hit/issues/11)|
 ||||||
 ||||||
