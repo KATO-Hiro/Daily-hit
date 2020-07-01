@@ -9,7 +9,7 @@
 |Date|Status|Summary|Keywords|link|
 |--|--|--|--|--|
 |2020-xx-xx||||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
-|2020-xx-xx||||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-02|Planning|役所の手続きをスマホで済ませるアプリ|事務手続き、オンライン化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/27)|
 |2020-07-01|Planning|AtCoder: お気に入りの問題を投票できるアプリ|競技プログラミング、AtCoder、投票、お気に入りの問題たち|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/25)|
 |2020-07-01|Planning|AtCoder: 問題の難易度の時間的な変化を推定できないか|競技プログラミング、AtCoder、確率・統計、数値化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/23)|
 |2020-06-30|Planning|GitHub: VS CodeからIssueやPRを作成する|GitHub, VS Code, 開発の効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/17)|
