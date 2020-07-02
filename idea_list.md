@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-xx-xx||||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-xx-xx||||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-03|Planning|Heroku: サーバのログをSlackかDiscordに転送|サーバ監視、ログ、転送|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/34)|
 |2020-07-03|Planning|タイムスタンプと短いコメントだけを書けるメモアプリ|Lifehack、メモ帳|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/33)|
 |2020-07-03|Planning|Piano: 楽譜と演奏のギャップを見えるようにするアプリ|音楽、ピアノ、練習サポート|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/32)|
 |2020-07-03|Planning|競プロerがWeb開発を始めるためのロードマップを作る|ロードマップ、Web開発|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/31)|
