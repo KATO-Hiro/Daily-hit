@@ -16,6 +16,8 @@ Wants to make &amp; prototype list inspired by [the page](https://masuidrive.tad
 
 [Source](https://masuidrive.tadalist.com/lists/1941485/public)
 
+[Idea note](https://qiita.com/terubooon/items/08c145aac0dd10ea8cbc)
+
 [Tips for continuing development using weekdays](https://docs.google.com/presentation/d/1WYo14faJY9LVSAazTT3_FCoCYv48JODZlZO7rppuZPQ/edit#slide=id.g89fd1a9fd7_2_75)
 
 [Readme Driven Development; RDD](https://qiita.com/b4b4r07/items/c80d53db9a0fd59086ec)
