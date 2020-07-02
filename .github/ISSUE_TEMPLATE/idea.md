@@ -10,6 +10,10 @@ about: Write ideas for problems and solutions.
 
 +
 
+## モチベーション
+
++
+
 ## キーワード
 
 +
