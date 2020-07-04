@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-xx-xx||||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-xx-xx||||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-04|Planning|CI: Travis CIの実行時間を短縮する方法がないか調べる|CI、高速化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/50)|
 |2020-07-04|Planning|論文: 文献情報をワンクリックで、所定の形式にまとめる|論文、文献管理、省力化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/48)|
 |2020-07-03|Planning|DeepL: Chrome extensionがないか探す|翻訳、DeepL、効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/35)|
 |2020-07-03|Planning|Heroku: サーバのログをSlackかDiscordに転送|サーバ監視、ログ、転送|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/34)|
