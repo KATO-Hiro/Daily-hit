@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-xx-xx||||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-xx-xx||||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-06|Planning|気の進まないオンライン飲み会から合法的にフェードアウトできるようにする|人間関係、オンライン飲み会、合法的な退出|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/52)|
 |2020-07-04|Planning|CI: Travis CIの実行時間を短縮する方法がないか調べる|CI、高速化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/50)|
 |2020-07-04|Planning|論文: 文献情報をワンクリックで、所定の形式にまとめる|論文、文献管理、省力化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/48)|
 |2020-07-03|Planning|DeepL: Chrome extensionがないか探す|翻訳、DeepL、効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/35)|
