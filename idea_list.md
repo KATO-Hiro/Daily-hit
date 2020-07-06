@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-xx-xx||||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-xx-xx||||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-06|Planning|オンライン上で雑談ができるスペース|コミュニケーション、雑談、オンライン化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/56)|
 |2020-07-06|Planning|AtCoder: 推定パフォーマンスと所要時間の関係をグラフ化|競技プログラミング、AtCoder、スクレイピング、データ分析、確率・統計|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/55)|
 |2020-07-06|Planning|AtCoder: ACすると、某CMが流れるスクリプト|競技プログラミング、AtCodrer、ユーザスクリプト、AC、遊び心|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/54)|
 |2020-07-06|Planning|Windows10: 親指シフトのエミュレーターソフトの乗り換え|キーボード入力、親指シフト、エミュレーターソフト、Windows|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/53)|
