@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-07|Planning|Zoom: 全画面表示になっており、メモが取りづらい|オンライン会議、Zoom|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/60)|
 |2020-07-07|Planning|ブラウザでmarkdownが書けるツールを探す|メモ、ブラウザ、markdown|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-07|Planning|Windows10: ファイルやディレクトリを横断的に検索できる軽量のツールがないか調べる|検索、Windows|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-07|Planning|AtCoder: PASTのアイコンをユーザプロフィールに追加|競技プログラミング、AtCoder、PAST、ステータス、可視化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/57)|
