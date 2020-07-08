@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-08|Planning|途中で開発が止まっているプロジェクトの理由・原因と対策を考える|個人開発、プロジェクト管理、開発中断、原因・対策|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/89)|
 |2020-07-08|Planning|AtCoder: サンプルのDL・テスト環境を専用のDockerコンテナに用意|AtCoder、ローカルテスト、Docker、テストツール|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/87)|
 |2020-07-08|Planning|相手に言いたいをやんわりと伝える仕組み|コミュニケーション、円滑化、対話|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/80)|
 |2020-07-08|Planning|Word: 事実と意見を区別するためのmarkerをつけられないか調べる|Word、マーカー、効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/75)|
