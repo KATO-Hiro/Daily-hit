@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-08|Planning|GitHub: 使っていないブランチを一括で削除できるようにする|GitHub、ブランチ管理、一括削除|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/68)|
 |2020-07-08|Planning|GitHub: PRがマージされたら、READMEやCHANGELOGが自動的に更新されるようになって欲しい|GitHub、ドキュメント作成・更新、自動化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/66)|
 |2020-07-08|Planning|ブラウザのタブを開きすぎる癖を直したい|PC、Lifehack、ブラウザ、タブ管理、整理整頓|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/64)|
 |2020-07-08|Planning|Closeしたサービスの墓標を作っていたWebサイトのクローンを自分用に作る|サービス終了、墓標、供養、歴史から学ぶ、CRUD、クローン|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/63)|
