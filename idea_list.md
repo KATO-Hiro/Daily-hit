@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-08|Planning|相手に言いたいをやんわりと伝える仕組み|コミュニケーション、円滑化、対話|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/80)|
 |2020-07-08|Planning|Word: 事実と意見を区別するためのmarkerをつけられないか調べる|Word、マーカー、効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/75)|
 |2020-07-08|Planning|COVID19: PCR陽性者/ PCR検査数を示したほうがいいのでは?|COVID19、PCR検査、分析、グラフ化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/73)|
 |2020-07-08|Planning|GitHub: 制作物一覧をいい感じに表示できるようにする|個人開発、ポートフォリオ、一覧|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/71)|
