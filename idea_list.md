@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-09|Planning|GraphQLについて調べる|GraphQL|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/106)|
 |2020-07-09|Planning|GraphQLのクエリの記述方法がC#のLINQみたいになってくれると嬉しい|DB、クエリ、GraphQL、文法チェック|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/103)|
 |2020-07-09|Planning|AtCoderに関する非公式ツールの一覧を作成&表示|競技プログラミング、AtCoder、非公式ツール、一覧|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/102)|
 |2020-07-08|Planning|Gifの作成がもっと簡単にならないか?|個人開発、gif、簡易動画作成、効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/90)|
