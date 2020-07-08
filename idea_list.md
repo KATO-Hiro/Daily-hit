@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-08|Planning|ブラウザのタブを開きすぎる癖を直したい|PC、Lifehack、ブラウザ、タブ管理、整理整頓|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/64)|
 |2020-07-08|Planning|Closeしたサービスの墓標を作っていたWebサイトのクローンを自分用に作る|サービス終了、墓標、供養、歴史から学ぶ、CRUD、クローン|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/63)|
 |2020-07-07|Planning|Zoom: 全画面表示になっており、メモが取りづらい|オンライン会議、Zoom|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/60)|
 |2020-07-07|Planning|ブラウザでmarkdownが書けるツールを探す|メモ、ブラウザ、markdown|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/59)|
