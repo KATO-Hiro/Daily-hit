@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-10|Planning|GitHub Pagesについて調べる|GitHub、Hosting、MyPage|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/113)|
 |2020-07-10|Planning|遺言を法的に有効な状態で記録するアプリ|遺言、記録、アプリ、電子化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/112)|
 |2020-07-10|Planning|AtCoder: あーだこーだーのリマインダー|競技プログラミング、AtCoder、公式放送、リマインダー|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/111)|
 |2020-07-10|Planning|AtCoder: あーだこーだーの要約をアップロード・アップロードしている人を探す|競技プログラミング、AtCoder、公式放送、要約|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/110)|
