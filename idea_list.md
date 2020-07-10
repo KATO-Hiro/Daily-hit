@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-10|Planning|AtCoder: あーだこーだーの要約をアップロード・アップロードしている人を探す|競技プログラミング、AtCoder、公式放送、要約|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/110)|
 |2020-07-10|Planning|GitHub Actionsのtutorialを試す|GitHub、効率化、追加機能|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/109)|
 |2020-07-09|Planning|FastAPIのtutorialを試す|API FW、Fast API、チュートリアル|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/108)|
 |2020-07-09|Planning|GraphQLについて調べる|GraphQL|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/106)|
