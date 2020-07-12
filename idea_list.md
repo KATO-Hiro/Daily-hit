@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-12|Planning|「エクスプレッシブ・ライティング」という手法を内容をアプリにする|心理、エクスプレッシブ・ライティング、辛い経験、書いて忘れる|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/119)|
 |2020-07-11|Planning|README.mdの内容をそのままWebページに表示できないか?|ドキュメント、公開、効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/117)|
 |2020-07-10|Planning|動画や録音の内容を要約できないか|ビッグデータ、動画・録音、要約、効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/114)|
 |2020-07-10|Planning|GitHub Pagesについて調べる|GitHub、Hosting、MyPage|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/113)|
