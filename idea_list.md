@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-15|Planning|YAMLファイルの文法チェックをローカル環境でできるようにする|文法チェック、YAML、自動化・効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-13|Planning|某音楽ゲーム + 芸人のVoiceをiOSアプリ化|ゲーム、音楽、声芸、iOS|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/126)|
 |2020-07-12|Planning|「エクスプレッシブ・ライティング」という手法を内容をアプリにする|心理、エクスプレッシブ・ライティング、辛い経験、書いて忘れる|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/119)|
 |2020-07-11|Planning|README.mdの内容をそのままWebページに表示できないか?|ドキュメント、公開、効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/117)|
