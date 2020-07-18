@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-17|Planning|任意の単行本の刊行をpush通知してくれると嬉しい|機会損失の回避、単行本、刊行通知、push通知|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/133)|
 |2020-07-16|Planning|AweSomeリストを作るときに，serviceとリンクを貼る&リンクが壊れていないか確認する作業を楽にできないか|Awesomeリスト、効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/132)|
 |2020-07-15|Planning|YAMLファイルの文法チェックをローカル環境でできるようにする|文法チェック、YAML、自動化・効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-13|Planning|某音楽ゲーム + 芸人のVoiceをiOSアプリ化|ゲーム、音楽、声芸、iOS|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/126)|
