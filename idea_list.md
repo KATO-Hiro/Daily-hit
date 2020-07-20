@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-20|Planning|AtCoder: 言語別にratingの順位表があると嬉しい|競技プログラミング、AtCoder、言語別の順位表|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/137)|
 |2020-07-19|Planning|用途をある程度指定すると，toolの組み合わせを提示をおすすめしてくれないか?|開発環境、インフラ構築、レコメンド、効率化、高速化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/136)|
 |2020-07-18|Planning|DBの存在を意識せずに済むtoolがないか探す|データの保存、beyond DB、意識レベルの転換|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-17|Planning|任意の単行本の刊行をpush通知してくれると嬉しい|機会損失の回避、単行本、刊行通知、push通知|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/133)|
