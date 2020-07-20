@@ -6,6 +6,10 @@ Wants to make &amp; prototype list inspired by [the page](https://masuidrive.tad
 
 [Click here!](https://github.com/KATO-Hiro/Daily-hit/blob/master/idea_list.md)
 
+## Found
+
+[Click here!](https://github.com/KATO-Hiro/Daily-hit/blob/master/found.md)
+
 ## Released products
 
 |Date|Name|Summary|Keywords|link|
