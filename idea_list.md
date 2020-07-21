@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-21|Planning|掃除機の音を劇的に静かにできないか?|音、掃除機、静音|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/145)|
 |2020-07-20|On going|Lab: 研究室のLINEに掃除の日程を通知できるようにする|リマインダー、日程管理、LINE、プッシュ通知|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/142)|
 |2020-07-20|Planning|GitHub: 実質，放置しているプロジェクトについてarchiveのmarkをつける|プロジェクト管理、ソースコードの管理、GitHub|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/141)|
 |2020-07-20|Planning|AtCoder: 言語別にratingの順位表があると嬉しい|競技プログラミング、AtCoder、言語別の順位表|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/137)|
