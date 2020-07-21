@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-21|Planning|AtCoder: 非公式サービスが出たら、push通知する仕組みがあると便利かも|競技プログラミング、AtCoder、非公式サービス、プッシュ通知、新着|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/147)|
 |2020-07-21|Planning|Google Apps Script: ブラウザ上でも快適に書けるようにしたい|スクリプト、Google Apps Script、環境構築、快適に|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/146)|
 |2020-07-21|Planning|掃除機の音を劇的に静かにできないか?|音、掃除機、静音|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/145)|
 |2020-07-20|On going|Lab: 研究室のLINEに掃除の日程を通知できるようにする|リマインダー、日程管理、LINE、プッシュ通知|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/142)|
