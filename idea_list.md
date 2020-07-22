@@ -11,7 +11,7 @@
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-22|Planning|Word: 文字の入力ができなくなることがある|トラブル、Word、入力|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/157)|
-|2020-07-22|Planning|READMEとIssueに同じことを書いているため、同時に更新できないか?||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/156)|
+|2020-07-22|Planning|READMEとIssueに同じことを書いているため、同時に更新できないか?|アイデア、ドキュメント化、省力化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/156)|
 |2020-07-21|Planning|疲れたかどうかを測定するアプリがないか探す|健康管理、疲労、判定|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/149)|
 |2020-07-21|Planning|電灯: 小さい電球を消し忘ないようにする|習慣、電気、消し忘れ|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/148)|
 |2020-07-21|Planning|AtCoder: 非公式サービスが出たら、push通知する仕組みがあると便利かも|競技プログラミング、AtCoder、非公式サービス、プッシュ通知、新着|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/147)|
