@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-23|Planning|zapierを使ってみる|連携ツール、利便性の向上|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/158)|
 |2020-07-22|Planning|Word: 文字の入力ができなくなることがある|トラブル、Word、入力|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/157)|
 |2020-07-22|Planning|READMEとIssueに同じことを書いているため、同時に更新できないか?|アイデア、ドキュメント化、省力化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/156)|
 |2020-07-21|Planning|疲れたかどうかを測定するアプリがないか探す|健康管理、疲労、判定|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/149)|
