@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-26|Planning|GitHubやTwitterのアイコンを変更する|SNS、アイコン|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/171)|
 |2020-07-25|Planning|大学の講義のおすすめ紹介|リコメンデーション、大学、講義|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/168)|
 |2020-07-24|Planning|GitHubのstatusをプロフィールページに追加|GitHub、ポートフォリオ、ドキュメント化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/164)|
 |2020-07-23|Planning|zapierを使ってみる|連携ツール、利便性の向上|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/158)|
