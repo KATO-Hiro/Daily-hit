@@ -10,6 +10,10 @@ Wants to make &amp; prototype list inspired by [the page](https://masuidrive.tad
 
 [Click here!](https://github.com/KATO-Hiro/Daily-hit/blob/master/found.md)
 
+## Done
+
+[Click here!](https://github.com/KATO-Hiro/Daily-hit/blob/master/done.md)
+
 ## Released products
 
 ### [AtCoderClans](https://github.com/KATO-Hiro/AtCoderClans)
