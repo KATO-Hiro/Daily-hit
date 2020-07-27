@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-27|Planning|競技プログラミングの軽い感じのオフイベントを用意できないか?|競技プログラミング、イベント、ライトなオフ会|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/173)|
 |2020-07-27|Planning|FastAPI用の環境をDockerで構築|環境構築、Docker、VSCode、FastAPI|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/172)|
 |2020-07-26|Planning|GitHubやTwitterのアイコンを変更する|SNS、アイコン|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/171)|
 |2020-07-25|Planning|大学の講義のおすすめ紹介|リコメンデーション、大学、講義|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/168)|
