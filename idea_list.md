@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-27|Planning|Twitter: アンケートを含むツイートだと予約投稿できないのはなぜ?|SNS、Twitter、予約投稿|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/175)|
 |2020-07-27|Planning|Twitterの情報収集: 情報の密度を高める工夫はあるか?|情報収集、SNS、効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/174)|
 |2020-07-27|Planning|競技プログラミングの軽い感じのオフイベントを用意できないか?|競技プログラミング、イベント、ライトなオフ会|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/173)|
 |2020-07-27|Planning|FastAPI用の環境をDockerで構築|環境構築、Docker、VSCode、FastAPI|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/172)|
