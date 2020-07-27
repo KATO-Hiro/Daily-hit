@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-27|Planning|心理的安全性について調べる・実践できそうな項目を探す|仕事、環境と生産性|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/177)|
 |2020-07-27|Planning|デリゲーションポーカーについて調べる|仕事、権限、上司と部下、コミュニケーション|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/176)|
 |2020-07-27|Planning|Twitter: アンケートを含むツイートだと予約投稿できないのはなぜ?|SNS、Twitter、予約投稿|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/175)|
 |2020-07-27|Planning|Twitterの情報収集: 情報の密度を高める工夫はあるか?|情報収集、SNS、効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/174)|
