@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-28|Planning|AtCoder: 非公式サービスのサムネイルでMAD動画を作れないか?|競技プログラミング、AtCoder、MAD動画、非公式サービス集|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/187)|
 |2020-07-28|Planning|AtCoder: 精進ツリーを表示している人たちに役に立つサービスを考える|競技プログラミング、AtCoder、精進、精進ツリー、代替サービス|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/185)|
 |2020-07-28|Planning|AtCoder: Judge中のアニメーションを導入|競技プログラミング、AtCoder、Judge判定、アニメーションの追加、ネタスクリプト|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/184)|
 |2020-07-28|Planning|AtCoder: ojでコンテスト本番にテストケースをダウンロードしようとすると、404 Client Errorが出る|競技プログラミング、AtCoder、テストツール、エラー|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/181)|
