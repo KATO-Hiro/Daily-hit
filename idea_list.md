@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-28|Planning|「LINE社内で大評判のテクニカルライティング講座で説明した内容をあらためてブログにまとめてみた」を読んで実践する|文章、講座|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/179)|
 |2020-07-28|Planning|iphoneで画面を録画したファイルからgifを作成すると、画質がよくない理由を調べる|gif、iphone録画、画質|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/178)|
 |2020-07-27|Planning|心理的安全性について調べる・実践できそうな項目を探す|仕事、環境と生産性|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/177)|
 |2020-07-27|Planning|デリゲーションポーカーについて調べる|仕事、権限、上司と部下、コミュニケーション|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/176)|
