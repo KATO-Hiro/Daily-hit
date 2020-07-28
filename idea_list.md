@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-28|Planning|AtCoder: Judge中のアニメーションを導入|競技プログラミング、AtCoder、Judge判定、アニメーションの追加、ネタスクリプト|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/184)|
 |2020-07-28|Planning|AtCoder: ojでコンテスト本番にテストケースをダウンロードしようとすると、404 Client Errorが出る|競技プログラミング、AtCoder、テストツール、エラー|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/181)|
 |2020-07-28|Planning|「「AWSではじめるデータレイク」出版記念データレイク解説セミナーの資料」を読む・試す|クラウド、AWS|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/180)|
 |2020-07-28|Planning|「LINE社内で大評判のテクニカルライティング講座で説明した内容をあらためてブログにまとめてみた」を読んで実践する|文章、講座|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/179)|
