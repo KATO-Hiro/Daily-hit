@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-29|Planning|AtCoder: 非公式サービスのサムネイルでMAD動画を作れないか?|競技プログラミング、AtCoder、MAD動画、非公式サービス、宣伝|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/187)|
 |2020-07-28|Planning|AtCoder: 特定の人がACしたら通知するサービス|競技プログラミング、AtCoder、AC通知|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/186)|
 |2020-07-28|Planning|AtCoder: 非公式サービスのサムネイルでMAD動画を作れないか?|競技プログラミング、AtCoder、MAD動画、非公式サービス集|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/187)|
 |2020-07-28|Planning|AtCoder: 精進ツリーを表示している人たちに役に立つサービスを考える|競技プログラミング、AtCoder、精進、精進ツリー、代替サービス|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/185)|
