@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-07-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-07-31|Planning|Have toな物事に対して，全力を尽くす方法・考え方について調べる|セルフマネジメント、リフレーミング、すべきこととやりたいこと|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/201)|
 |2020-07-30|Planning|GitHub Pages: figを入れてもページの表示が軽くなる方法を調べる|GitHub Pages、HTML、画像、表示速度、改善|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/192)|
 |2020-07-29|Planning|AtCoder: 非公式サービスのサムネイルでMAD動画を作れないか?|競技プログラミング、AtCoder、MAD動画、非公式サービス、宣伝|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/187)|
 |2020-07-28|Planning|AtCoder: 特定の人がACしたら通知するサービス|競技プログラミング、AtCoder、AC通知|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/186)|
