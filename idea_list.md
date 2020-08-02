@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-02|Planning|セミの鳴き声が年々大きくなっている?|測定、セミ、鳴き声|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/211)|
 |2020-08-01|Planning|macOS: 図のキャプチャ・トリミング・リネーム・リサイズなどを一つのソフトで完結できないか?|macOS、定形作業、図の加工、フリーソフト|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/210)|
 |2020-07-31|Planning|Have toな物事に対して，全力を尽くす方法・考え方について調べる|セルフマネジメント、リフレーミング、すべきこととやりたいこと|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/201)|
 |2020-07-30|Planning|GitHub Pages: figを入れてもページの表示が軽くなる方法を調べる|GitHub Pages、HTML、画像、表示速度、改善|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/192)|
