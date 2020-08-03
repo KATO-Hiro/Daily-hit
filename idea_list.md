@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-03|Planning|Windowsのパスを通す作業を撲滅できないか?|Windows、設定、パス、自動化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/212)|
 |2020-08-02|Planning|セミの鳴き声が年々大きくなっている?|測定、セミ、鳴き声|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/211)|
 |2020-08-01|Planning|macOS: 図のキャプチャ・トリミング・リネーム・リサイズなどを一つのソフトで完結できないか?|macOS、定形作業、図の加工、フリーソフト|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/210)|
 |2020-07-31|Planning|Have toな物事に対して，全力を尽くす方法・考え方について調べる|セルフマネジメント、リフレーミング、すべきこととやりたいこと|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/201)|
