@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-03|Planning|予約システムとLINEの連携を簡単に|効率化、予約、LINEと連携|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/217)|
 |2020-08-03|Planning|電話による割り込みを少なくできないか?|仕事、集中、割り込み、電話、対策|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/216)|
 |2020-08-03|Planning|Windowsのパスを通す作業を撲滅できないか?|Windows、設定、パス、自動化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/212)|
 |2020-08-02|Planning|セミの鳴き声が年々大きくなっている?|測定、セミ、鳴き声|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/211)|
