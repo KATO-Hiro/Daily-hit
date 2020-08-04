@@ -10,8 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
-|2020-08-04|Planning|LabLINEBot: Releasedに追加|ドキュメント、ポートフォリオ、成果
-|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/222)|
+|2020-08-04|Planning|LabLINEBot: Releasedに追加|ドキュメント、ポートフォリオ、成果|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/222)|
 |2020-08-03|Planning|文献管理ソフトPaperpileを使ってみる|文献管理、整理整頓、効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/218)|
 |2020-08-03|Planning|予約システムとLINEの連携を簡単に|効率化、予約、LINEと連携|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/217)|
 |2020-08-03|Planning|電話による割り込みを少なくできないか?|仕事、集中、割り込み、電話、対策|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/216)|
