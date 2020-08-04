@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-04|Planning|入室前に体温測定するWeb app|自動化、体温測定、記録|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/226)|
 |2020-08-04|Planning|片付けに関する自分の中の暗黙知を文章化|言語化、暗黙知、掃除|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/225)|
 |2020-08-04|Planning|COVID2019の事後検証をOSSで分析|データ分析、事後検証、COVID2019|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/224)|
 |2020-08-04|Planning|AtCoder: AGCのコンテスト時間がなぜか110分で決め打ちになっている|競技プログラミング、AtCoder、告知情報|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/223)|
