@@ -11,6 +11,7 @@
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-04|Planning|片付けに関する自分の中の暗黙知を文章化|言語化、暗黙知、掃除|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/225)|
+|2020-08-04|Planning|COVID2019の事後検証をOSSで分析|データ分析、事後検証、COVID2019|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/224)|
 |2020-08-04|Planning|AtCoder: AGCのコンテスト時間がなぜか110分で決め打ちになっている|競技プログラミング、AtCoder、告知情報|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/223)|
 |2020-08-04|Planning|LabLINEBot: Releasedに追加|ドキュメント、ポートフォリオ、成果|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/222)|
 |2020-08-03|Planning|文献管理ソフトPaperpileを使ってみる|文献管理、整理整頓、効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/218)|
