@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-05|Planning|暑さとセミの鳴き声に対するストレスを軽減できないか?|ストレス、温度、音、軽減、緩和|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/231)|
 |2020-08-05|Planning|Rlang: 手続き的に書きがちなスクリプトをReactっぽく書き直すとどうなるか?|Rlang、Refactoring|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/230)|
 |2020-08-05|Planning|macOS: 時々，カーソルが消える現象が発生して困る|PC、macOS、カーソル、操作、不具合|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/229)|
 |2020-08-05|Planning|AtCoder: 全体のレベルが指数関数的に上がっている状況で，ratingが上がらずモチベーションが下がる人が一定数存在する問題への対処が必要そう|競技プログラミング、AtCoder、数値化、全体レベルの上昇、モチベーション管理|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/228)|
