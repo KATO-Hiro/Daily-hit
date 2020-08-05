@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-05|Planning|AtCoder: 全体のレベルが指数関数的に上がっている状況で，ratingが上がらずモチベーションが下がる人が一定数存在する問題への対処が必要そう|競技プログラミング、AtCoder、数値化、全体レベルの上昇、モチベーション管理|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/228)|
 |2020-08-04|Planning|入室前に体温測定するWeb app|自動化、体温測定、記録|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/226)|
 |2020-08-04|Planning|片付けに関する自分の中の暗黙知を文章化|言語化、暗黙知、掃除|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/225)|
 |2020-08-04|Planning|COVID2019の事後検証をOSSで分析|データ分析、事後検証、COVID2019|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/224)|
