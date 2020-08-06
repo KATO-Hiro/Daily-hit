@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-06|Planning|文章: 書く内容がまとまっていないときに，▼などと書いて放置する癖を直したい|ドキュメント作成、先送り、癖|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/232)|
 |2020-08-05|Planning|暑さとセミの鳴き声に対するストレスを軽減できないか?|ストレス、温度、音、軽減、緩和|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/231)|
 |2020-08-05|Planning|Rlang: 手続き的に書きがちなスクリプトをReactっぽく書き直すとどうなるか?|Rlang、Refactoring|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/230)|
 |2020-08-05|Planning|macOS: 時々，カーソルが消える現象が発生して困る|PC、macOS、カーソル、操作、不具合|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/229)|
