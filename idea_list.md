@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-06|Planning|Web開発に関する基礎知識のsheetを試す|Web開発、基礎知識、チートシート|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/240)|
 |2020-08-06|Planning|いきなりきたクレームに対する受け止め方をリフレーミングできるようにする|クレーム、メンタル、リフレーム|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/239)|
 |2020-08-06|Planning|HDDの起動が遅い→SSDへの換装が必要では?|PC、快適な環境、換装|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/238)|
 |2020-08-06|Planning|「自治三訣」をメモ|心構え、偉人の言葉|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/233)|
