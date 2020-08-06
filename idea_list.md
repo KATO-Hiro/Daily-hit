@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-06|Planning|HDDの起動が遅い→SSDへの換装が必要では?|PC、快適な環境、換装|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/238)|
 |2020-08-06|Planning|「自治三訣」をメモ|心構え、偉人の言葉|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/233)|
 |2020-08-06|Planning|文章: 書く内容がまとまっていないときに，▼などと書いて放置する癖を直したい|ドキュメント作成、先送り、癖|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/232)|
 |2020-08-05|Planning|暑さとセミの鳴き声に対するストレスを軽減できないか?|ストレス、温度、音、軽減、緩和|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/231)|
