@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-07|Planning|どのような公開データがあるかチェック|公開データ|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/249)|
 |2020-08-07|Planning|内向型に関する記事を読む|記事、内向型|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/248)|
 |2020-08-07|Planning|AtCoderファイブボンバー|競技プログラミング、AtCoder、バラエティ番組のオマージュ|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/242)|
 |2020-08-06|Planning|FastAPIとNext.js，vercelを使ってbackendとfrontendを分けたプロジェクトを構築する|個人開発、プロジェクト構成、Docker、FastAPI、Next.js、backendとfrontendの分離|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/241)|
