@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-08|Planning|AtCoder: https://www.amazon.co.jp/dp/4065128447/を買う|書籍、購入|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/263)|
 |2020-08-08|Planning|罪悪感なく休みを取るには?|労働、休暇、休むことへの外圧|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/262)|
 |2020-08-08|Planning|OSS コントリビューションや GitHub 上のアクティビティのまとめレポート投稿を自動化する を試す|自動化、レポート作成|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/255)|
 |2020-08-08|Planning|GitHubのレポジトリなどで読んだ内容をメモするレポジトリを作成|ソースコードリーディング、GitHub、メモ、巨人の肩に立つ|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/254)|
