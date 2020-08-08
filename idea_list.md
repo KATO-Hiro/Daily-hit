@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-08|Planning|OSS コントリビューションや GitHub 上のアクティビティのまとめレポート投稿を自動化する を試す|自動化、レポート作成|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/255)|
 |2020-08-08|Planning|GitHubのレポジトリなどで読んだ内容をメモするレポジトリを作成|ソースコードリーディング、GitHub、メモ、巨人の肩に立つ|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/254)|
 |2020-08-07|Planning|どのような公開データがあるかチェック|公開データ|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/249)|
 |2020-08-07|Planning|内向型に関する記事を読む|記事、内向型|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/248)|
