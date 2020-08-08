@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-08|Planning|「エンジニアの劣等感との付き合い方」をメモ|仕事、心構え、劣等感とその対処方法|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/268)|
 |2020-08-08|Planning|「GitHub Readme Stats を利用してGitHubプロフィールをカッコよくする」を試す|GitHub、プロフィール作成|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/267)|
 |2020-08-08|Planning|AtCoder: https://www.amazon.co.jp/dp/4065128447/を買う|書籍、購入|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/263)|
 |2020-08-08|Planning|罪悪感なく休みを取るには?|労働、休暇、休むことへの外圧|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/262)|
