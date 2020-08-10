@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-10|Planning|2年目のエンジニアの方が書いた記事を読む|キャリア、エンジニア、新卒での学び|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/282)|
 |2020-08-10|Planning|Rustプログラミング入門を買う|書籍、Rust、入門書|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/281)|
 |2020-08-10|Planning|「私が新しい技術を追いかける理由について」を読む|学習、IT技術、モチベーション|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/280)|
 |2020-08-10|Planning|理想の自分と現実の自分のギャップはなるべく小さくする方がいい を読む|心がけ、理想と現実、ギャップ|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/279)|
