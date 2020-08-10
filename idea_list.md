@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-10|Planning|「私が新しい技術を追いかける理由について」を読む|学習、IT技術、モチベーション|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/280)|
 |2020-08-10|Planning|理想の自分と現実の自分のギャップはなるべく小さくする方がいい を読む|心がけ、理想と現実、ギャップ|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/279)|
 |2020-08-10|Planning|モチベーションを保つ方法に関する記事を読む|心かけ、モチベーション|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/278)|
 |2020-08-10|Planning|「楽しい」と心の中でつぶやいてみる|心がけ、ポジティプシンキング|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/276)|
