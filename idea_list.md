@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-10|Planning|「楽しい」と心の中でつぶやいてみる|心がけ、ポジティプシンキング|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/276)|
 |2020-08-09|Planning|AtCoder: 公式解説 + 上位陣による解説投稿機能が追加された、どの程度網羅されているのか知りたい|競技プログラミング、AtCoder、解説投稿、一覧|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/269)|
 |2020-08-08|Planning|「エンジニアの劣等感との付き合い方」をメモ|仕事、心構え、劣等感とその対処方法|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/268)|
 |2020-08-08|Planning|「GitHub Readme Stats を利用してGitHubプロフィールをカッコよくする」を試す|GitHub、プロフィール作成|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/267)|
