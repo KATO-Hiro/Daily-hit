@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-11|Planning|「無意味な時間を過ごしたっていい。髭男爵・山田ルイ53世さんの「つまらない暮らし方」」を読む|記事、芸人、生き方、時間の過ごし方|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/283)|
 |2020-08-10|Planning|2年目のエンジニアの方が書いた記事を読む|キャリア、エンジニア、新卒での学び|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/282)|
 |2020-08-10|Planning|Rustプログラミング入門を買う|書籍、Rust、入門書|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/281)|
 |2020-08-10|Planning|「私が新しい技術を追いかける理由について」を読む|学習、IT技術、モチベーション|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/280)|
