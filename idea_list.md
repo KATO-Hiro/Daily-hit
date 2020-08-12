@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-12|Planning|slideshareを代替を探す|ソフトウェア、代替サービス|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/294)|
 |2020-08-12|Planning|アプリインストールのポップアップが出ると、なぜか抵抗感がある|アプリ、インストール、手間、コスト|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/293)|
 |2020-08-11|Planning|「オープンソースは誰もがヒーローになれる平等な空間 ─ 小さくてもソースコードを公開することが「チャンス」」を読む|記事、OSS、公開、貢献|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/284)|
 |2020-08-11|Planning|「無意味な時間を過ごしたっていい。髭男爵・山田ルイ53世さんの「つまらない暮らし方」」を読む|記事、芸人、生き方、時間の過ごし方|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/283)|
