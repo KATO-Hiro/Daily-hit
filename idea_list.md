@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-12|Planning|「大人になってからの上達の話」を読む|学習、成長、上達、大人向けの方法|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/296)|
 |2020-08-12|Planning|「【知らないとストレスが溜まるばかり】やりたくないことへのストレスを無くす方法」を読む|ストレス対策、Have toへの対処方法の一つ|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/295)|
 |2020-08-12|Planning|slideshareを代替を探す|ソフトウェア、代替サービス|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/294)|
 |2020-08-12|Planning|アプリインストールのポップアップが出ると、なぜか抵抗感がある|アプリ、インストール、手間、コスト|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/293)|
