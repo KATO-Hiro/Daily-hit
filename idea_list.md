@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-13|Planning|React: これから作ろうとしているappに参考になる実装方法がないかチェックする|フロントエンド、React、app題材|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/303)|
 |2020-08-12|Planning|「【研究者×勉強法】読んだ論文を血肉にするために。自己投資としての論文メモのススメ」を読む|学習方法、論文、論文メモ、知識を使えるようにする工夫|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/297)|
 |2020-08-12|Planning|「大人になってからの上達の話」を読む|学習、成長、上達、大人向けの方法|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/296)|
 |2020-08-12|Planning|「【知らないとストレスが溜まるばかり】やりたくないことへのストレスを無くす方法」を読む|ストレス対策、Have toへの対処方法の一つ|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/295)|
