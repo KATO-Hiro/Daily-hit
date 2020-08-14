@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-14|Planning|「「学歴」はあるけど「学力」はない」を読む|記事、学歴と学力|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/307)|
 |2020-08-13|Planning|「高学歴コンプレックス」を読む|記事、学歴、コンプレックス|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/306|
 |2020-08-13|Planning|読んだ記事のメモをするためのテンプレートを用意する|メモ、テンプレート、GitHub|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/305)|
 |2020-08-13|Planning|「老いに備える知的生活と作業ログ（仕事の心がけ）」を読む|学び、加齢、仕事の心がけ|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/304)|
