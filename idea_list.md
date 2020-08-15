@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-15|Planning|「How to Set Up a Python Project For Automation and Collaboration」を読む|開発、Python、プロジェクト構成|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/313)|
 |2020-08-15|Planning|「この割れ切った世界の片隅で」を読む|記事、普通とは?|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/308)|
 |2020-08-14|Planning|「「学歴」はあるけど「学力」はない」を読む|記事、学歴と学力|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/307)|
 |2020-08-13|Planning|「高学歴コンプレックス」を読む|記事、学歴、コンプレックス|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/306|
