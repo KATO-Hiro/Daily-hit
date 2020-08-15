@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-15|Planning|「[TS] Firestoreを型安全にするライブラリ Fireschema を作った [firestore.rules自動生成/データ自動型付け]」を読む|Firestore、TypeScript、ライブラリ|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/314)|
 |2020-08-15|Planning|「How to Set Up a Python Project For Automation and Collaboration」を読む|開発、Python、プロジェクト構成|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/313)|
 |2020-08-15|Planning|「この割れ切った世界の片隅で」を読む|記事、普通とは?|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/308)|
 |2020-08-14|Planning|「「学歴」はあるけど「学力」はない」を読む|記事、学歴と学力|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/307)|
