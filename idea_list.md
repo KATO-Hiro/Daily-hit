@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-18|Planning|だらだら休む時間を設ける|マインドセット、休養、回復|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/317)|
 |2020-08-17|Planning|相手が喜んでくれそうなこと、を考える|記事、思考実験、相手を喜ばす|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/316)|
 |2020-08-16|Planning|こんな◯◯だったら最高! を言葉や絵で表現する|記事、表現、理想|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/315)|
 |2020-08-15|Planning|「[TS] Firestoreを型安全にするライブラリ Fireschema を作った [firestore.rules自動生成/データ自動型付け]」を読む|Firestore、TypeScript、ライブラリ|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/314)|
