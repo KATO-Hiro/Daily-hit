@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-19|Planning|しなやかマインドセットを身につけられるようにする|マインドセット、柔軟性|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/318)|
 |2020-08-18|Planning|だらだら休む時間を設ける|マインドセット、休養、回復|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/317)|
 |2020-08-17|Planning|相手が喜んでくれそうなこと、を考える|記事、思考実験、相手を喜ばす|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/316)|
 |2020-08-16|Planning|こんな◯◯だったら最高! を言葉や絵で表現する|記事、表現、理想|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/315)|
