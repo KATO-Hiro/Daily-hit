@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-20|Planning|インターバル走法の考え方を学びに応用した書籍がないか調べる|トレーニング、長期戦、転用|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/319)|
 |2020-08-19|Planning|しなやかマインドセットを身につけられるようにする|マインドセット、柔軟性|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/318)|
 |2020-08-18|Planning|だらだら休む時間を設ける|マインドセット、休養、回復|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/317)|
 |2020-08-17|Planning|相手が喜んでくれそうなこと、を考える|記事、思考実験、相手を喜ばす|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/316)|
