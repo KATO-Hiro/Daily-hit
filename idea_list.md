@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-21|Planning|「睡眠が最強の自己啓発法である理由【科学的に正しい自己啓発法】」を読む|睡眠、重要性、自己啓発|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/320)|
 |2020-08-20|Planning|インターバル走法の考え方を学びに応用した書籍がないか調べる|トレーニング、長期戦、転用|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/319)|
 |2020-08-19|Planning|しなやかマインドセットを身につけられるようにする|マインドセット、柔軟性|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/318)|
 |2020-08-18|Planning|だらだら休む時間を設ける|マインドセット、休養、回復|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/317)|
