@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-22|Planning|「痛みは相対的である」を読む|記事、メンタル、痛み、感覚|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/323)|
 |2020-08-22|Planning|「AtCoder Problemsに貢献する方法」について書かれた記事を読む|OSS、競技プログラミング、AtCoder、有志サービス、共同開発|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-22|Planning|「自立ってのは自分1人でなんでもやるって事だけじゃない」を読む|自立、大人、心構え|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/321)|
 |2020-08-21|Planning|「睡眠が最強の自己啓発法である理由【科学的に正しい自己啓発法】」を読む|睡眠、重要性、自己啓発|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/320)|
