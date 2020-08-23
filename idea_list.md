@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-23|Planning|プロダクト名の検索を楽にできるようにしたい|開発、プロダクト名、名前、検索、効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/325)|
 |2020-08-22|Planning|「痛みは相対的である」を読む|記事、メンタル、痛み、感覚|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/323)|
 |2020-08-22|Planning|「AtCoder Problemsに貢献する方法」について書かれた記事を読む|OSS、競技プログラミング、AtCoder、有志サービス、共同開発|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-22|Planning|「自立ってのは自分1人でなんでもやるって事だけじゃない」を読む|自立、大人、心構え|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/321)|
