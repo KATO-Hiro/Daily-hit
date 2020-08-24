@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-24|Planning|「転職が目標じゃなくなったら、iOS開発は筋トレになりました。」を読む|記事、開発|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/327)|
 |2020-08-24|Planning|「皆で同じ方向を向く必要はない。チームに属することは、自分を抑えて誰かに尽くすことではないよ。」を読む|記事、チーム、個人、考え方|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/326)|
 |2020-08-23|Planning|プロダクト名の検索を楽にできるようにしたい|開発、プロダクト名、名前、検索、効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/325)|
 |2020-08-22|Planning|「痛みは相対的である」を読む|記事、メンタル、痛み、感覚|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/323)|
