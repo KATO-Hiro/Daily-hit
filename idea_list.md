@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-25|Planning|「自分の事は好きになれなくても、嫌いになるのはやめた方がいい」を読む|記事、マインド、リフレーミング|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/334)|
 |2020-08-25|Planning|AtCoder: 数字が大きい場合は指数表記で統一する|競技プログラミング、AtCoder、問題文、表記の統一|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/333)|
 |2020-08-24|Planning|Docker: 権限に関する設定について公式Docを読む|インフラ、Docker、権限、設定|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/331)|
 |2020-08-24|Planning|「転職が目標じゃなくなったら、iOS開発は筋トレになりました。」を読む|記事、開発|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/327)|
