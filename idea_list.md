@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-25|Planning|takashiさんのアプリを作るときに大切にしていることを読む&自分のプロジェクトに反映できるところがないか|個人開発、先駆者の心がけ|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/342)|
 |2020-08-25|Planning|Research: codeをprivate repoに|研究、Code、バージョン管理、機密保持|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/340)|
 |2020-08-25|Planning|Oura ring: 充電したのに，スマホでは充電されたことになっていない|トラブル、睡眠トラッカー、Oura ring、充電|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/336)|
 |2020-08-25|Planning|「自分の事は好きになれなくても、嫌いになるのはやめた方がいい」を読む|記事、マインド、リフレーミング|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/334)|
