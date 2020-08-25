@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-25|Planning|AtCoder: 数字が大きい場合は指数表記で統一する|競技プログラミング、AtCoder、問題文、表記の統一|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/333)|
 |2020-08-24|Planning|Docker: 権限に関する設定について公式Docを読む|インフラ、Docker、権限、設定|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/331)|
 |2020-08-24|Planning|「転職が目標じゃなくなったら、iOS開発は筋トレになりました。」を読む|記事、開発|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/327)|
 |2020-08-24|Planning|「皆で同じ方向を向く必要はない。チームに属することは、自分を抑えて誰かに尽くすことではないよ。」を読む|記事、チーム、個人、考え方|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/326)|
