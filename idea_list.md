@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-26|Planning|chokudaiさんによるプログラミングコンテストでWAとなるケースが分からないときの手法をメモ|競技プログラミング、AtCoder、WAケースの特定、愚直解|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/344)|
 |2020-08-25|Planning|Pythonコードのセキュリティ問題解析ツール「Pysa」のREADMEを読む|セキュリティ、ツール、Python|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/343)|
 |2020-08-25|Planning|takashiさんのアプリを作るときに大切にしていることを読む&自分のプロジェクトに反映できるところがないか|個人開発、先駆者の心がけ|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/342)|
 |2020-08-25|Planning|Research: codeをprivate repoに|研究、Code、バージョン管理、機密保持|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/340)|
