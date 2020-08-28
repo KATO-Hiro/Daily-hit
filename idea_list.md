@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-28|Planning|「バットマン効果」を実践してみる|記事、心がけ、困難、克服|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/346)|
 |2020-08-27|Planning|年始の目標に対して、達成度を月1回振り返る|目標、振り返り、達成度の確認、簡素化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/345)|
 |2020-08-26|Planning|chokudaiさんによるプログラミングコンテストでWAとなるケースが分からないときの手法をメモ|競技プログラミング、AtCoder、WAケースの特定、愚直解|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/344)|
 |2020-08-25|Planning|Pythonコードのセキュリティ問題解析ツール「Pysa」のREADMEを読む|セキュリティ、ツール、Python|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/343)|
