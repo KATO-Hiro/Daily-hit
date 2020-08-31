@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-08-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-08-31|Planning|アイデアに詰まったときは、最も興味があることに対して10個の質問をしてみる|アイデア、詰まった、ネタを出す方法|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/354)|
 |2020-08-30|Planning|「isoflow.io」を使ってみる|Webサービス|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/353)|
 |2020-08-30|Planning|苦手に思っていること: 単純に経験値が少ないだけor自分には本当に合わないを見極める方法がないか?|能力、得手不得手|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/351)|
 |2020-08-30|Planning|「達人に学ぶDB設計徹底指南書」を読む|書籍、DB設計|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/350)|
