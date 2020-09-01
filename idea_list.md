@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-09-01|Planning|「clean-code-javascript」を読む|JavaScript、お作法|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/359)|
 |2020-08-31|Planning|気軽に競技プログラミングの問題をシェアする方法はないか?|競技プログラミング、作問、シェア|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/358)|
 |2020-08-31|Planning|「【連載】世界一わかりみが深いコンテナ & Docker入門 〜 その5:Dockerのネットワークってどうなってるの？ 〜」を読む|記事、Docker、入門|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/356)|
 |2020-08-31|Planning|PCを起動したときに前回の作業状態を復元したい|PC、起動、作業状態の復元、簡略化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/355)|
