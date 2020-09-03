@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-09-03|Planning|テンプレートを用途に応じて使い分けられるようにする|GitHub、テンプレート、使い分け|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/377)|
 |2020-09-03|Planning|Advanced System Care: 広告をキャンセルできないのがとても不便|ソフトウェア、UI、広告、キャンセル|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/376)|
 |2020-09-02|Planning|スマホ: SMSがかなり遅れて受信される/すぐに届かない原因を調べる|スマホ、通知、SMS、トラブル|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/369)|
 |2020-09-01|Planning|LEADYOUを試す|ドキュメント、README、効率化、テンプレート|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/364)|
