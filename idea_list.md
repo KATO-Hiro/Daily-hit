@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-09-04|Planning|Done is better than perfectの真意を学ぶ|心がけ、言葉の真意|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/380)|
 |2020-09-03|Planning|動画「最初の20時間で効果的に学ぶ」を見て，実践する|動画、学習方法|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/378)|
 |2020-09-03|Planning|テンプレートを用途に応じて使い分けられるようにする|GitHub、テンプレート、使い分け|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/377)|
 |2020-09-03|Planning|Advanced System Care: 広告をキャンセルできないのがとても不便|ソフトウェア、UI、広告、キャンセル|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/376)|
