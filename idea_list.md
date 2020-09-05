@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-09-05|Planning|段取り力を身につけるための本を読む|仕事、段取り、生産性の向上|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/391)|
 |2020-09-05|Planning|どういうときにHappyな気分になるか書き出す|幸せ、価値観|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/390)|
 |2020-09-05|Planning|MS Teams: 意図しないタイミングで「連絡可能」の状態になっている原因を調べる|Web会議、MS Teams、状況、意図しない変更|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/381)|
 |2020-09-04|Planning|Done is better than perfectの真意を学ぶ|心がけ、言葉の真意|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/380)|
