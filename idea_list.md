@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-09-05|Planning|現職の引き継ぎ項目を列挙|仕事、引き継ぎ、データ整理|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/402)|
 |2020-09-05|Planning|自分が過剰なストレス状態にあるときの特徴を列挙し，解消方法を事前に用意しておく|ストレス管理、緩和、セルフマネジメント|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/392)|
 |2020-09-05|Planning|段取り力を身につけるための本を読む|仕事、段取り、生産性の向上|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/391)|
 |2020-09-05|Planning|どういうときにHappyな気分になるか書き出す|幸せ、価値観|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/390)|
