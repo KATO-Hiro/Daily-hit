@@ -11,6 +11,10 @@
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-05|Planning|本質を見抜く力を身に着けるための本を探す|仕事、本質、エッセンス、無駄ややり直しを減らす|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/384)|
+|2020-09-05|Planning|現職の引き継ぎ項目を列挙|仕事、引き継ぎ、データ整理|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/402)|
+|2020-09-05|Planning|自分が過剰なストレス状態にあるときの特徴を列挙し，解消方法を事前に用意しておく|ストレス管理、緩和、セルフマネジメント|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/392)|
+|2020-09-05|Planning|段取り力を身につけるための本を読む|仕事、段取り、生産性の向上|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/391)|
+|2020-09-05|Planning|どういうときにHappyな気分になるか書き出す|幸せ、価値観|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/390)|
 |2020-09-05|Planning|MS Teams: 意図しないタイミングで「連絡可能」の状態になっている原因を調べる|Web会議、MS Teams、状況、意図しない変更|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/381)|
 |2020-09-04|Planning|Done is better than perfectの真意を学ぶ|心がけ、言葉の真意|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/380)|
 |2020-09-03|Planning|動画「最初の20時間で効果的に学ぶ」を見て，実践する|動画、学習方法|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/378)|
