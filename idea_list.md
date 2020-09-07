@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-09-07|Planning|データを渡す&説明する手間をカットできないか?|仕事、引き継ぎ、データ共有|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/406)|
 |2020-09-07|Planning|定期的に部屋の掃除をするための工夫ができないか?|掃除、LifeHack、習慣化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/405)|
 |2020-09-07|Planning|WordでIDEみたいな機能がないか探す|Word、入力補完、|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/404)|
 |2020-09-06|Planning|LabBotの予定を追加|Bot、データ更新|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/403)|
