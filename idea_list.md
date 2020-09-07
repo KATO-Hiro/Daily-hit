@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-09-07|Planning|定期的に部屋の掃除をするための工夫ができないか?|掃除、LifeHack、習慣化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/405)|
 |2020-09-07|Planning|WordでIDEみたいな機能がないか探す|Word、入力補完、|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/404)|
 |2020-09-06|Planning|LabBotの予定を追加|Bot、データ更新|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/403)|
 |2020-09-05|Planning|本質を見抜く力を身に着けるための本を探す|仕事、本質、エッセンス、無駄ややり直しを減らす|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/384)|
