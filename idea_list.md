@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-09-13|Planning|一日の時間の使い方を計測する|時間の使い方、計測|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/413)|
 |2020-09-11|Planning|「自分の中で変えたくないもの / 変えてもよいもの」を書き出す|LifeHack、価値観、自己分析|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/412)|
 |2020-09-10|Planning|「LaravelDB.com」を他のFWにも応用できないか?|設計、テンプレ、FW、転用|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/408)|
 |2020-09-08|Planning|「PayPayのQRは２週間過ぎると変わるようで、その度にQRコードの差し替えが面倒」を自動化できないか?|自動化、QRコード、更新|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/407)|
