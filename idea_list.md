@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-09-14|Planning|文章を書く: 紙にある程度書き出してPCで入力 or いきなりPCのどちらがより自分にあっているか? 効率的か?|仕事、作文、思考と作業の分離|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/416)|
 |2020-09-14|Planning|Lab: 論文を読む時間を確保する|研究、論文、時間管理|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/415)|
 |2020-09-13|Planning|Lab: 研究に関するアイデアを出す習慣をつける|研究、アイデア、習慣化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/414)|
 |2020-09-13|Planning|一日の時間の使い方を計測する|時間の使い方、計測|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/413)|
