@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-09-15|Planning|TakerからGiverに変わるための本を読む|仕事、自己啓発、価値の提供|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/422)|
 |2020-09-15|Planning|習慣化しているものを棚卸しする|習慣、言語化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/420)|
 |2020-09-14|Planning|計画性を身に着けるための本を読んで、実践する|自己啓発、時間管理、計画性|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/419)|
 |2020-09-14|Planning|目的意識が低い状態をなんとかしたい|仕事、意識、目的志向|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/418)|
