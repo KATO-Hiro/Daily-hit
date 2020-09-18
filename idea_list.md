@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-09-18|Planning|Rlang: 図の出力を高解像度にしたい|作図、Rlang、解像度|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/425)|
 |2020-09-17|Planning|Word: 文章をGitおよびGitHubで共有することはできる?|Word、差分管理、GitHub|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/424)|
 |2020-09-17|Planning|Word: コメントからTODOリストを作成する機能があると便利かも|Word、校閲、修正、リスト化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/423)|
 |2020-09-15|Planning|TakerからGiverに変わるための本を読む|仕事、自己啓発、価値の提供|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/422)|
