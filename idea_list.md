@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-09-18|Planning|無意識のうちに、だらだらしてしまう時間を減らす|時間管理|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/430)|
 |2020-09-18|Planning|取り組むべきタスクかどうかを取捨選択する習慣をつける|タスク管理、取捨選択|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/429)|
 |2020-09-18|Planning|タスク管理: TrelloとToodledoに分散しており，一本化できないか?|タスク管理、一元化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/428)|
 |2020-09-18|Planning|TrelloとGoogleカレンダーを同期させたい|LifeHack、予定管理、一元化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/427)|
