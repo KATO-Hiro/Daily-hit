@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-09-18|Planning|確認画面のない投稿フォームは，利用者にとって不安感を与えるのではないか?|Webサービス、フォーム、確認画面、安心感、アンチパターン|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/435)|
 |2020-09-18|Planning|Web系で使われている主要な技術をリストアップ|Web開発、学習の方向性、技術トレンド|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/434)|
 |2020-09-18|Planning|無意識のうちに、だらだらしてしまう時間を減らす|時間管理|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/430)|
 |2020-09-18|Planning|取り組むべきタスクかどうかを取捨選択する習慣をつける|タスク管理、取捨選択|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/429)|
