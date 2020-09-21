@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-09-21|Planning|文章の書き方: いきなりPCに向かうべきか、ある程度紙に書いてから転写するか、どっちが効率いい?|仕事、文章、思考と作業、効率化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/438)|
 |2020-09-21|Planning|Word: 論文の図のレイアウトに時間が掛かるのをカットしたい|文章作成、事務作業、レイアウト、時短|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/437)|
 |2020-09-18|Planning|確認画面のない投稿フォームは，利用者にとって不安感を与えるのではないか?|Webサービス、フォーム、確認画面、安心感、アンチパターン|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/435)|
 |2020-09-18|Planning|Web系で使われている主要な技術をリストアップ|Web開発、学習の方向性、技術トレンド|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/434)|
