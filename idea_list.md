@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-09-22|Planning|某レポートの作成: 図の作成をスクリプト化できないか?|レポート、作図の効率化、スクリプト化、属人性を減らす|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/448)|
 |2020-09-21|Planning|データ収集: 1時間単位で発表されるデータの収集を自動化できないか?|仕事、データ収集、自動化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/447)|
 |2020-09-21|Planning|Rlang: PDFに出力するときに文字サイズやフォントがなぜか変わって困る|Rlang、作図、体裁、PDF出力|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/440)|
 |2020-09-21|Planning|短時間でリフレッシュできることを探す|セルフマネジメント、気分転換|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/439)|
