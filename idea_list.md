@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-09-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-09-28|Planning|VSCode: あるフォルダの配下に単独のフォルダしかないときでも，階層を一つ下げるようにしたい|VSCode、UI、フォルダの配置、使い勝手|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/450)|
 |2020-09-25|Planning|GitHubでレポジトリを作成したときの初期設定をカスタマイズできないか?|GitHub、初期設定、カスタマイズ|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/449)|
 |2020-09-22|Planning|某レポートの作成: 図の作成をスクリプト化できないか?|レポート、作図の効率化、スクリプト化、属人性を減らす|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/448)|
 |2020-09-21|Planning|データ収集: 1時間単位で発表されるデータの収集を自動化できないか?|仕事、データ収集、自動化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/447)|
