@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-10-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-10-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-10-02|Planning|特定のWebページを定期的に訪問して，更新されていればmhtml形式で保存する|データ収集、自動化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/461)|
 |2020-10-02|Planning|VSCodeでRlangのコードを書いていると，たまにフリーズするので困る|VSCode、R、フリーズ、不具合|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/460)|
 |2020-10-01|Planning|AtCoder: 解法を話せる閉鎖空間があるといい|競技プログラミング、AtCoder、閉鎖空間、解法、コミュニケーションの場|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/458)|
 |2020-10-01|Planning|論文: 書くときに気をつけることを一般化&チェックリスト化|文章、論文、チェックリスト|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/457)|
