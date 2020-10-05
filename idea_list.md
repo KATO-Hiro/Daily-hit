@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-10-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-10-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-10-05|Planning|Reactに関する技術書を購入|Web開発、技術書、React|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/468)|
 |2020-10-02|Planning|Git: クローンしたレポジトリの状態を自動的に最新にする方法がないか調べる|Git、Fork、リポジトリの自動更新|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/464)|
 |2020-10-02|Planning|MapInfo: ユニバーサルトランスレータがもっさりしていて不便|GIS、MapInfo、動作に対する応答速度|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/462)|
 |2020-10-02|Planning|特定のWebページを定期的に訪問して，更新されていればmhtml形式で保存する|データ収集、自動化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/461)|
