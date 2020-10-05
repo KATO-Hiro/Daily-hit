@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-10-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-10-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-10-05|Planning|ACL: ライブラリには丁寧なドキュメントを、提出コードには載せない方向で抽出できないか?|競技プログラミング、AtCoder、ACL、ドキュメント|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/472)|
 |2020-10-05|Planning|Python: あるプロジェクトでレビューしていただいた点をチートシート化|OSS、レビュー、指摘事項のチートシート化|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/471)|
 |2020-10-05|Planning|「【すぐ元気になれる】もうダメ…と思ったら読んで下さい」を読む|記事、メンタルケア|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/470)|
 |2020-10-05|Planning|「GitHub ActionsとGitHub Pagesでymlをフォルダに入れておくだけのお手軽デプロイ」を読む|Web開発、デプロイ、簡略化、GitHub|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/469)|
