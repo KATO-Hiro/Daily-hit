@@ -3,6 +3,7 @@
 |Date|Name|Summary|Keywords|link|
 |--|--|--|--|--|
 |2020-11-xx|||||
+|2020-10-29|記事「誰かに「使えないやつだな」と言われても気にする必要なんかない」|自分が助けてもらっていることを書き出す。助けてくれる人が気分良く働けるかを常に考える|記事、マインド、暴言|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/581)|
 |2020-10-29|記事「自分には価値がないなんて思う必要は全くない」|他人と比較しない。他人の評価と自分の価値は切り離して考える。自分のことを必要としてくれる場所を探す|記事、マインド|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/572)|
 |2020-10-04|「プログラムの修正を送るとTシャツがもらえる」キャンペーンが開発者に迷惑がられる理由とは？|企業主導のPR促進キャンペーンが、メンテナにとっては時間泥棒でしかないため|OSS、PR、スパム|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/544)|
 |2020-09-30|GitHub: READMEレポジトリにVisitor Badgeを追加|READMEに沿って、markdownファイルに追記するだけ|GitHub、ステータスバッジ、訪問者数|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/485)|
