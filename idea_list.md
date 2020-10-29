@@ -10,6 +10,7 @@
 |--|--|--|--|--|
 |2020-10-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
 |2020-10-xx|Planning|||[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/)|
+|2020-10-29|Planning|GitHub: PRにDraft markをつける方法を調べる|GitHub、PR、WIP|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/482)|
 |2020-10-29|Planning|GitHub: クローン元の最新情報を取り込んだときのcommit msgが不格好なのをなんとかしたい|GItHub、commit msg|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/481)|
 |2020-10-05|Planning|GitHub: レビューでsuggestionされた項目をPR上で反映する方法を調べる|GitHub、レビュー、反映|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/475)|
 |2020-10-05|Planning|ACL: ライブラリには丁寧なドキュメントを、提出コードには載せない方向で抽出できないか?|競技プログラミング、AtCoder、ACL、ドキュメント|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/472)|
