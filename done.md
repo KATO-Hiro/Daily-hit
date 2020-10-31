@@ -3,6 +3,7 @@
 |Date|Name|Summary|Keywords|link|
 |--|--|--|--|--|
 |2020-11-xx|||||
+|2020-10-31|記事「内向的な性格でも損をしたくないあなたへ送る」|内向的な性格の人の長所: 自分で決めたことは遂行できる可能性が高い。感情を乱されることが少ない。人付き合いが苦手な理由を列挙してみる|記事、性格、内向型|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/595)|
 |2020-10-31|記事「人生を好転される行動力の磨き方」|望む方向に向けて、できることを全力で試行錯誤し、繰り返す|記事、行動力|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/593)|
 |2020-10-30|記事「質も量も大事だけど、初めは量をこなした方がいいよ」|その時点で最善を尽くしながら、工夫して量をこなす|記事、自己啓発|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/590)|
 |2020-10-30|記事「つまらない作業を遊びに変えると、人生が楽しくなる。」|「遊び」の感覚を導入する|記事、マインド|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/588)|
