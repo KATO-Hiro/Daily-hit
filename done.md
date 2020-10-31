@@ -3,6 +3,7 @@
 |Date|Name|Summary|Keywords|link|
 |--|--|--|--|--|
 |2020-11-xx|||||
+|2020-10-31|記事「人生を好転される行動力の磨き方」|望む方向に向けて、できることを全力で試行錯誤し、繰り返す|記事、行動力|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/593)|
 |2020-10-30|記事「質も量も大事だけど、初めは量をこなした方がいいよ」|その時点で最善を尽くしながら、工夫して量をこなす|記事、自己啓発|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/590)|
 |2020-10-30|記事「つまらない作業を遊びに変えると、人生が楽しくなる。」|「遊び」の感覚を導入する|記事、マインド|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/588)|
 |2020-10-30|記事「【読まなきゃ大損❗️】不機嫌になると顔に出てしまう癖を治す方法」|怒り・不安を利用して、相手を動かそうとしている可能性がある。他の方法で目的を解決できる方法を探す。|記事、アドラー心理学、マインド|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/586)|
