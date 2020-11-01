@@ -3,6 +3,7 @@
 |Date|Name|Summary|Keywords|link|
 |--|--|--|--|--|
 |2020-11-xx|||||
+|2020-11-01|記事「今までの価値観を変えて別人になる方法」|家庭・交友・趣味などに関心を寄せる|記事、マインド、価値観|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/607)|
 |2020-11-01|記事「不安に打ち勝つ方法」|不安を感じる原因を明らかにする。対処方法を考えて、実践する|記事、マインド、不安への対処方法|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/605)|
 |2020-10-31|記事「もう自分を見失わない方法」|自分と他人の課題を分離する。考えるのではなく感じてみる。法律・他人の権利を侵害しない程度に、やりたかったことを実行してみる|記事、マインド、アドラー心理学|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/603)|
 |2020-10-31|記事「自己肯定感の高めて自分は正しいと信じ込む方法」|自分の価値は、自分で決めるという気持ちをもつ|記事、マインド、アドラー心理学|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/601)|
