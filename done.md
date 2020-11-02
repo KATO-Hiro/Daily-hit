@@ -3,6 +3,7 @@
 |Date|Name|Summary|Keywords|link|
 |--|--|--|--|--|
 |2020-11-xx|||||
+|2020-11-02|記事「なぜPrAha Inc.のエンジニアは設計を学ぶのか」|学ぶ効果が大きい、開発工程への影響が大きい、自動化されにくい|記事、設計の重要性|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/614)|
 |2020-11-02|記事「新技術の最速学習法」|簡単な参考書を1冊買う。サンプルは読むだけ、分からないところは飛ばす。実践&。ググる。参考書や公式Docを読む|記事、技術習得、取得方法|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/612)|
 |2020-11-01|記事「我慢する必要が無くなる考え方」|自分の設定した目的に向かって努力することで現状を変えられる。我慢が必要なときは、相手の目的・意図を汲み取って耳を傾けるとストレスが少なくなる|記事、マインド、我慢と対処|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/609)|
 |2020-11-01|記事「今までの価値観を変えて別人になる方法」|家庭・交友・趣味などに関心を寄せる|記事、マインド、価値観|[Issue](https://github.com/KATO-Hiro/Daily-hit/issues/607)|
