@@ -4,20 +4,6 @@ about: Write summary and comments after read articles.
 
 ---
 
-# 「」
-
-## なぜ読もうと思ったか
-
-+
-
-## 現状
-
-+
-
-## 目標
-
-+
-
 ## 要約
 
 +
@@ -38,14 +24,4 @@ about: Write summary and comments after read articles.
 
 +
 
-## 抽象化
-
-+
-
-## 応用
-
-+
-
 ## 出典
-
-+
