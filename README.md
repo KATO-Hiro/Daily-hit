@@ -20,6 +20,20 @@ Wants to make &amp; prototype list inspired by [the page](https://masuidrive.tad
 
 ## Released products
 
+### [AtCoder-Editorial-for-Typical90](https://github.com/KATO-Hiro/AtCoder-Editorial-for-Typical90)
+
+  ***DEMO***
+
+  ![demo](images/atcoder_editorial_for_typical90_demo.png)
+
++ Date: 2021-06-06〜
++ Summary: AtCoderの「競プロ典型90問」に解説タブを追加し、公式解説・想定ソースコードなどのリンクを表示します。
++ Keywords: 競技プログラミング、AtCoder、ユーザスクリプト、利便性の向上
++ Links:
+  + [Greasy Fork](https://greasyfork.org/ja/scripts/427584-atcoder-editorial-for-typical90)
+  + [GitHub](https://github.com/KATO-Hiro/AtCoder-Editorial-for-Typical90)
+  + [Issue](https://github.com/KATO-Hiro/Daily-hit/issues/842)
+
 ### [AtCoderClans](https://github.com/KATO-Hiro/AtCoderClans)
 
   ***DEMO***
