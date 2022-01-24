@@ -20,6 +20,22 @@ Wants to make &amp; prototype list inspired by [the page](https://masuidrive.tad
 
 ## Released products
 
+### [AtCoder Trophies](https://atcoder-trophies.vercel.app/)
+
+  ***DEMO***
+
+  <div align="center">
+    <video width= 300 src="https://user-images.githubusercontent.com/13990347/147845353-d154bb01-1050-47b6-87b6-b53780de0785.mp4" autoplay muted controls loop></video>
+  </div>
+
++ Date: 2022-01-08〜
++ Summary: AtCoderに関連する統計情報を利用してトロフィーアイコンを動的に生成し、GitHubのREADMEに貼ることができます。
++ Keywords: 競技プログラミング、AtCoder、Webアプリ、トロフィー
++ Links:
+  + [GitHub](https://github.com/KATO-Hiro/AtCoderTrophies)
+  + [Twitter](https://twitter.com/k_hiro1818/status/1481198491787751426)
+  + [Issue](https://github.com/KATO-Hiro/AtCoderTrophies/issues)
+
 ### [AtCoder-Editorial-for-Typical90](https://github.com/KATO-Hiro/AtCoder-Editorial-for-Typical90)
 
   ***DEMO***
